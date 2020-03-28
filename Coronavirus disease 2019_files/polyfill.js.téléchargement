@@ -1,0 +1,9 @@
+/* Polyfill service v3.53.1
+ * For detailed credits and licence information see https://github.com/financial-times/polyfill-service.
+ * 
+ * Features requested: HTMLPictureElement,Symbol,console.debug,console.log,console.warn,default,es2017,es5,es6,es7,fetch
+ *  */
+
+
+/* No polyfills found for current settings */
+
